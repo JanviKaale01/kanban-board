@@ -20,5 +20,8 @@ A simple Kanban Board application built using HTML, CSS and JavaScript to manage
 2. Open the project folder in VS Code.
 3. Open `index.html` using Live Server.
 
+## 🚀 Live Demo
+[View Kanban Board](https://janvikaale01.github.io/kanban-board/)
+
 ## 👩‍💻 Author
 Created with ❤️ while learning JavaScript.
